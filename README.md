@@ -1,3 +1,3 @@
 <?php 
-    include 'Technopreneurship Finals/index(jayvee).php';
+    include 'index(jayvee).php';
 ?>
